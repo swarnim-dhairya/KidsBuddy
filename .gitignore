@@ -1,0 +1,8 @@
+# Ignore node_modules and other build artifacts
+chatbot-frontend/node_modules/
+chatbot-frontend/.env
+chatbot-frontend/.next/
+chatbot-frontend/dist/
+.vs/
+# Optionally ignore system files
+.DS_Store
